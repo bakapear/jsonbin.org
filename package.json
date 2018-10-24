@@ -1,0 +1,27 @@
+{
+  "name": "jsonbin.org",
+  "version": "1.0.0",
+  "description": "Small NodeJS API for jsonbin.org",
+  "main": "index.js",
+  "dependencies": {
+    "got": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakapear/jsonbin.org.git"
+  },
+  "keywords": [
+    "jsonbin.org",
+    "api"
+  ],
+  "author": "bakapear",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bakapear/jsonbin.org/issues"
+  },
+  "homepage": "https://github.com/bakapear/jsonbin.org#readme"
+}
