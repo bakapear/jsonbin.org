@@ -13,5 +13,5 @@ bin.patch("profile", {age: 36}).then(console.log)
 bin.get("profile/name").then(console.log)
 // -> "John"
 bin.delete("profile")
-// -> {}
+// -> {name: "John", age: 36} *but it's deleted -> null*
 ```
