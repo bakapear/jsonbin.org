@@ -1,5 +1,5 @@
 # jsonbin.org
-NodeJS API for jsonbin.org
+NodeJS API for [jsonbin.org](https://jsonbin.org/)
 
 ## Example Usage
 ```js
